@@ -3,13 +3,13 @@
 </div> 
   
 
-### <div align="center">I'm André, a Brazilian IT Student | System Analyst</div>  
+### <div align="center">I'm André, a Brazilian IT Student | Software Engineer</div>  
   
 
 - 🔭 I’m currently beggining my studies, so expect projects soon...  
   
 
-- 📚 I’m currently learning Python, NodeJS and Java(OOP)  
+- 📚 I’m currently learning Python, NodeJS, Java(OOP) and C# (.NET)
   
 
 - ⁉️ Do you have any ideas for a project or study methodology? Contact me!  
